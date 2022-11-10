@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+input, button {
+  font-size:larger;
+  border: 1px solid grey;
+}
+.tweet {
+  background-color:rgb(197, 88, 48);
+  padding: 1px;
+  margin: 1px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  box-shadow: 3px 2px lightgray;
+}
+button {
+  background-color: rgb(197, 88, 48) ;
+  color: antiquewhite;
+  padding: 1px;
+}
